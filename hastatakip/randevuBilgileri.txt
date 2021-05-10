@@ -1,0 +1,3 @@
+34690101228, esma sert, sikayet1, muayene1, tahlil1, teshis1, tedavi1
+12345, feyza sert, sikayet2, muayene2, tahlil2, teshis2, tedavi2
+
