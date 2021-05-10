@@ -1,2 +1,2 @@
 # Patient-Management-System
-Patient Management System for doctors who has private clinics and want to store files in local machine with backup.
+Patient Management System for doctors who has private clinics and prefer to store medical informations in their local machine with the backup.
