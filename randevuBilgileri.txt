@@ -1,0 +1,3 @@
+Isim Soyisim, Tc No, Sikayet, Muayene, Tahlil, Teshis, Tedavi
+Esma Sert / 123456 / sikayetEsma / muayeneEsma / tahlilEsma / teshisEsma / tedaviEsma / 2021-03-30
+Feyza / 1111 / sikayetFeyza / muayeneFeyza / tahlilFeyza / teshisFeyza / tedaviFeyza / 2017-11-05
