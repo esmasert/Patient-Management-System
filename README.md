@@ -3,7 +3,7 @@ Patient Management System for doctors who has private clinics and prefer to stor
 
 **Files:**
 
-"hastaBilgileri.txt" contains patient's name surname, national identity number, telephone number and address.
+"hastaBilgileri.txt" contains patient's name surname, national identity number, telephone number and address.                                    
 "randevuBilgileri.txt" contains patient's name surname, national identity number, results of examination and date of the examination. 
 "hastaBilgileriDogumTarihiIle.txt" contains patient's name surname, national identity number and date of birth.
 
