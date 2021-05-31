@@ -1,5 +1,5 @@
 # Patient-Management-System
-Patient Management System for doctors who has private clinics and prefer to store medical informations in their local machine with the backup.
+The application is for doctors who has private clinics and prefer to store medical informations in their local machine with the backup. It’s designed to monitor patient information, diagnoses, prescriptions, interactions and encounters. 
 
 **Files:**
 
