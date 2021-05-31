@@ -1,4 +1,2 @@
-esma sert, 34690101228, 5320671051, Mahmet akif mah
-feyza sert, 12345, 537287458, balikesir
-
-
+esma sert, 123456, 654332, Istanbul
+feyza, 1111, 2222, Balikesir
